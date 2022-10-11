@@ -2,6 +2,8 @@
 ¦ MVC - CiberMat [LÉEME] ¦
 --------------------------------------------------------
 
+![img] (https://imgur.com/FZwmKSa.png)
+
 • INFORMACIÓN GENERAL:
 
 Práctica de MVC realizada en IDE Apache Netbeans empleando JAVA, HTML y CSS / BOOTSTRAP.

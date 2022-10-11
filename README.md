@@ -4,7 +4,7 @@
 
 • INFORMACIÓN GENERAL:
 
-POO - Práctica de MVC realizada en IDE Apache Netbeans empleando JAVA, HTML y CSS / BOOTSTRAP.
+Práctica de MVC realizada en IDE Apache Netbeans empleando JAVA, HTML y CSS / BOOTSTRAP.
 
   » CONCEPTOS CLAVE A MI ENTENDER:
 

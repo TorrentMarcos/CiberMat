@@ -8,7 +8,7 @@ Práctica de MVC realizada en IDE Apache Netbeans empleando JAVA, HTML y CSS / B
 
 ![CiberMat1](https://user-images.githubusercontent.com/101758311/195212894-ff581226-8f07-461b-b8f4-52a87de5b761.png)
 
-  **» Conceptos clave:**
+  **• Conceptos clave:**
 
     - Patrón de Diseño MVC (Modelo-Vista-Controlador).
     - JSP's, Servlets y Mapeo.

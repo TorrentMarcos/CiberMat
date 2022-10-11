@@ -2,7 +2,7 @@
 ¦ MVC - CiberMat [LÉEME] ¦
 --------------------------------------------------------
 
-![My Remote Image] (https://imgur.com/FZwmKSa)
+![CiberMat1](https://user-images.githubusercontent.com/101758311/195212894-ff581226-8f07-461b-b8f4-52a87de5b761.png)
 
 • INFORMACIÓN GENERAL:
 

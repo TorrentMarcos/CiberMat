@@ -10,11 +10,11 @@ Práctica de MVC realizada en IDE Apache Netbeans empleando JAVA, HTML y CSS / B
 
   **» Conceptos clave:**
 
-    - Patrón de Diseño MVC (Modelo-Vista-Controlador).
-    - JSP's, Servlets y Mapeo.
-    - Manejo de sesiones.
-    - Archivos & Persistencia.
-    - Excepciones.
+    **-** Patrón de Diseño MVC (Modelo-Vista-Controlador).
+    **-** JSP's, Servlets y Mapeo.
+    **-** Manejo de sesiones.
+    **-** Archivos & Persistencia.
+    **-** Excepciones.
     
 **« Proyecto realizado única y exclusivamente con fines académicos »**
    

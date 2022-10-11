@@ -2,7 +2,7 @@
 ¦ MVC - CiberMat [LÉEME] ¦
 --------------------------------------------------------
 
-![img] (https://imgur.com/FZwmKSa.png)
+![img] (https://i.imgur.com/FZwmKSa.png)
 
 • INFORMACIÓN GENERAL:
 
